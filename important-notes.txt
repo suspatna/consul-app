@@ -12,3 +12,6 @@ https://aws-quickstart.s3.amazonaws.com/quickstart-hashicorp-consul/templates/qu
 
 How can I associate an ACM SSL certificate with an ELB/ALB?
 https://www.youtube.com/watch?v=GW7RkWUZL4E
+
+====logs:
+https://s3.amazonaws.com/cloudformation-templates-us-east-1/CloudWatch_Logs.template
