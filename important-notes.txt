@@ -1,0 +1,14 @@
+This Quick Start sets up a flexible, scalable AWS Cloud environment, and launches HashiCorp Consul automatically 
+into a configuration of your choice.
+https://aws.amazon.com/quickstart/architecture/consul/
+Deploy into a new VPC - > https://fwd.aws/qmxr8
+Deploy into an existing VPC -> https://fwd.aws/Q5Rqv
+
+deploy consul using ec2 and using cloduformation:
+https://aws-quickstart.s3.amazonaws.com/quickstart-hashicorp-consul/templates/quickstart-hashicorp-consul-master.template
+
+
+
+
+How can I associate an ACM SSL certificate with an ELB/ALB?
+https://www.youtube.com/watch?v=GW7RkWUZL4E
